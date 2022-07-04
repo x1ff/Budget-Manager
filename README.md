@@ -1,6 +1,9 @@
 # Budget-Manager
 
-##Description
+https://hyperskill.org/projects/76?track=17
+
+## Description
+
 Do you know how much money you spend on food? On entertainment? It's quite interesting to know since the main purpose of this application is to analyze your expenses. Let's implement this feature!
 
 First, add the Analyze item to the menu. This way you will request an analysis of your purchases.
